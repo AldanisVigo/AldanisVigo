@@ -2,6 +2,7 @@
 
 # SaucePanTv.net
 [More info](https://hookup.express/index.php/saucepantv-net/).
+#### [Stack]
 ![VueJS](./vue.svg)
 ![Firebase](./firebase.svg)
 ![NodeJS](./nodejs.svg)
