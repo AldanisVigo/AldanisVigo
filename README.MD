@@ -1,11 +1,7 @@
-<body bgcolor="#fff">
-
 ### Aldanis Vigo - Software Developer
 # Skills
 
-```diff
-- ![Alt text](./html5.svg)
-```
+![Alt text](./html5.svg)
 <!-- <img src="./html5.svg"> -->
 
 ![Alt text](./css3.svg)
