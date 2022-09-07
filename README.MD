@@ -1,7 +1,7 @@
 # Aldanis Vigo - Software Developer
 
 # SaucePanTv.net
-[More info](https://hookup.express/index.php/saucepantv-net/).
+[Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
 #### [Stack]
 ![VueJS](./vue.svg)
 ![Firebase](./firebase.svg)
