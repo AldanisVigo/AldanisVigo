@@ -21,9 +21,9 @@
 ![Javascript](./js.svg)
 
 
-# Vigo Chat App
+## Vigo Chat App
 [More Info](https://hookup.express/index.php/vigochat/)
-## Technologies Used
+#### [Stack]
 ![NodeJS](./nodejs.svg)
 ![jQuery](./jquery.svg)
 ![HTML 5](./html5.svg)
@@ -31,22 +31,22 @@
 ![Javascript](./js.svg)
 ![SocketIO](./socketio.svg)
 
-# Vigo's Jobify App
+## Vigo's Jobify App
 [More Info](https://hookup.express/index.php/2022/09/03/jobify-project/)
-## Technologies Used
+#### [Stack]
 ![MongoDB](./mongodb.svg)
 ![React](./react.svg)
 ![NodeJS](./nodejs.svg)
 
-# Unity Mini Games 
+## Unity Mini Games 
 [More Info](https://hookup.express/index.php/simple-unity-games/).
-## Technologies Used
+#### [Stack]
 ![Unity](./unity.svg)
 ![C#](./csharp.svg)
 
 ## Pinch Zoom Gestures in Swift
 [Read more about this project.](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
-## Technologies Used
+#### [Stack]
 ![Swift](./swift.svg)
 
 ## SaucePanTv.net
