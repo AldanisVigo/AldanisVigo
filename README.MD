@@ -1,5 +1,4 @@
-### Aldanis Vigo - Software Developer
-# Some of my Projects
+# Aldanis Vigo - Software Developer
 
 # Music Sharing App
 [More info](https://hookup.express/index.php/saucepantv-net/).
@@ -50,6 +49,7 @@
 # Unity Mini Games 
 [More Info](https://hookup.express/index.php/simple-unity-games/).
 ## Technologies Used
+![Unity](./unity.svg)
 ![C#](./csharp.svg)
 
 # Pinch Zoom Gestures in Swift
