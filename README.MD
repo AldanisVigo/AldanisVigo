@@ -21,6 +21,7 @@
 ## Multiplayer Rock, Paper, Scissors
 [Read more about MRPS.](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
 #### [Stack]
+![React](./react.svg)
 ![HTML 5](./html5.svg)
 ![CSS 3](./css3.svg)
 ![Javascript](./js.svg)
