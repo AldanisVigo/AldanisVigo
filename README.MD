@@ -37,6 +37,7 @@ https://hookup.express/index.php/2022/09/03/jobify-project/
 ![C#](./csharp.svg)
 
 # Pinch Zoom Gestures in Swift
+Nice project focused on pinch and zoom gestures using Swift
 [More Info](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
 ## Technologies Used
 ![Swift](./swift.svg)
