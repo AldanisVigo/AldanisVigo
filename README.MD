@@ -45,6 +45,7 @@
 ![jQuery](./jquery.svg)
 ![NodeJS](./nodejs.svg)
 ![SocketIO](./socketio.svg)
+![MySQL](./mysql.svg)
 
 ## Pinch Zoom Gestures in Swift
 [Read more about this project.](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
