@@ -24,6 +24,16 @@
 ![ExpressJS](./express.svg)
 ![MongoDB](./mongodb.svg)
 
+## Generative NFT Art Collection using Metaplex's Candy Machine
+[Read more about this NFT project.](https://hookup.express/index.php/2022/07/22/generative-art-nft-collection-on-the-solana-blockchain-using-metaplexs-candy-machine-v2/)
+#### [Stack]
+![React](./react.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
+![NodeJS](./nodejs.svg)
+
+
 ## Multiplayer Rock, Paper, Scissors
 [Read more about MRPS.](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
 #### [Stack]
@@ -69,5 +79,19 @@
 ![Firebase](./firebase.svg)
 ![NodeJS](./nodejs.svg)
 
+## SevenoLuxury.com Frontend
+[Have a look at the site](https://sevenoluxury.com)
+#### [Stack]
+![VueJS](./vue.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
+![Firebase](./firebase.svg)
 
+## Indeco Sales Rep Finder Component
+[WordPress plugin to find sales reps for indeco. See it live](https://indecosales.com/find-my-rep/)
+#### [Stack]
+![WordPress](./wordpress.svg)
+![PHP](./php.svg)
+![Javascript](./js.svg)
 
