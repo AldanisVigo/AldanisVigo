@@ -1,8 +1,7 @@
 # Aldanis Vigo - Software Developer
 
-# Music Sharing App
+# SaucePanTv.net
 [More info](https://hookup.express/index.php/saucepantv-net/).
-## Technologies Used
 ![VueJS](./vue.svg)
 ![Firebase](./firebase.svg)
 ![NodeJS](./nodejs.svg)
