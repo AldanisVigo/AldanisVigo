@@ -1,6 +1,6 @@
 # Aldanis Vigo - Software Developer
 
-# SaucePanTv.net
+## SaucePanTv.net
 [Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
 #### [Stack]
 ![VueJS](./vue.svg)
@@ -10,17 +10,17 @@
 ![CSS 3](./css3.svg)
 ![Javascript](./js.svg)
 
-# Vigo Doc App
+## Vigo Doc App
 [More Info](https://github.com/AldanisVigo/VigoDoc.git)
-## Technologies Used
+#### [Stack]
 ![MongoDB](./mongodb.svg)
 ![ExpressJS](./express.svg)
 ![React](./react.svg)
 ![NodeJS](./nodejs.svg)
 
-# Multiplayer Rock, Paper, Scissors
+## Multiplayer Rock, Paper, Scissors
 [More Info](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
-## Technologies Used
+### Technologies Used
 ![NodeJS](./nodejs.svg)
 ![ExpressJS](./express.svg)
 ![SocketIO](./socketio.svg)
