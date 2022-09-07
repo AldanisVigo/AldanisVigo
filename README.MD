@@ -1,35 +1,51 @@
 ### Aldanis Vigo - Software Developer
-# Skills & Projects
+# Some of my Projects
 
+# Music Sharing App
+[More info](https://hookup.express/index.php/saucepantv-net/).
+## Technologies Used
+![VueJS](./vue.svg)
+![Firebase](./firebase.svg)
+![NodeJS](./nodejs.svg)
 ![HTML 5](./html5.svg)
-
 ![CSS 3](./css3.svg)
-
 ![Javascript](./js.svg)
 
+# Vigo Doc App
+[More Info](https://github.com/AldanisVigo/VigoDoc.git)
+## Technologies Used
+![MongoDB](./mongodb.svg)
+![ExpressJS](./express.svg)
 ![React](./react.svg)
-
-![VueJS](./vue.svg)
-
-[SaucePanTv.net Music Sharing App](https://hookup.express/index.php/saucepantv-net/).
-
-![Flutter](./flutter.svg)
-
-
 ![NodeJS](./nodejs.svg)
-https://github.com/AldanisVigo/VigoDoc.git
 
-https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/
+# Multiplayer Rock, Paper, Scissors
+[More Info](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
+## Technologies Used
+![NodeJS](./nodejs.svg)
+![ExpressJS](./express.svg)
+![SocketIO](./socketio.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
 
-https://hookup.express/index.php/vigochat/
 
-https://hookup.express/index.php/2022/09/03/jobify-project/
+# Vigo Chat App
+[More Info](https://hookup.express/index.php/vigochat/)
+## Technologies Used
+![NodeJS](./nodejs.svg)
+![jQuery](./jquery.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
+![SocketIO](./socketio.svg)
 
-![C](./c.svg)
-
-![C++](./cpp.svg)
-
-
+# Vigo's Jobify App
+[More Info](https://hookup.express/index.php/2022/09/03/jobify-project/)
+## Technologies Used
+![MongoDB](./mongodb.svg)
+![React](./react.svg)
+![NodeJS](./nodejs.svg)
 
 # Unity Mini Games 
 [More Info](https://hookup.express/index.php/simple-unity-games/).
@@ -43,10 +59,3 @@ Nice project focused on pinch and zoom gestures using Swift
 ![Swift](./swift.svg)
 
 
-![Dart](./dart.svg)
-
-
-
-![Java](./java.svg)
-
-![Spring](./spring.svg)
