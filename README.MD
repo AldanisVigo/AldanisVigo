@@ -92,6 +92,6 @@
 [WordPress plugin to find sales reps for indeco. See it live](https://indecosales.com/find-my-rep/)
 #### [Stack]
 ![WordPress](./wordpress.svg)
-![PHP](./php.svg)
+![PHP](./phppurp.svg)
 ![Javascript](./js.svg)
 
