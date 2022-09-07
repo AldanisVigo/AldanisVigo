@@ -6,6 +6,9 @@
 [Read more about the Vigo Doc App](https://github.com/AldanisVigo/VigoDoc.git)
 #### [Stack]
 ![React](./react.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
 ![NodeJS](./nodejs.svg)
 ![ExpressJS](./express.svg)
 ![MongoDB](./mongodb.svg)
@@ -14,6 +17,9 @@
 [Read more about the jobify app.](https://hookup.express/index.php/2022/09/03/jobify-project/)
 #### [Stack]
 ![React](./react.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
 ![NodeJS](./nodejs.svg)
 ![ExpressJS](./express.svg)
 ![MongoDB](./mongodb.svg)
