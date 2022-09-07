@@ -10,8 +10,16 @@
 ![React](./react.svg)
 ![NodeJS](./nodejs.svg)
 
+## Vigo's Jobify App
+[Read more about the jobify app.](https://hookup.express/index.php/2022/09/03/jobify-project/)
+#### [Stack]
+![MongoDB](./mongodb.svg)
+![ExpressJS](./express.svg)
+![React](./react.svg)
+![NodeJS](./nodejs.svg)
+
 ## Multiplayer Rock, Paper, Scissors
-[Read more about MRPS](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
+[Read more about MRPS.](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
 #### [Stack]
 ![NodeJS](./nodejs.svg)
 ![ExpressJS](./express.svg)
@@ -19,7 +27,6 @@
 ![HTML 5](./html5.svg)
 ![CSS 3](./css3.svg)
 ![Javascript](./js.svg)
-
 
 ## Vigo Chat App
 [More Info](https://hookup.express/index.php/vigochat/)
@@ -31,23 +38,17 @@
 ![Javascript](./js.svg)
 ![SocketIO](./socketio.svg)
 
-## Vigo's Jobify App
-[More Info](https://hookup.express/index.php/2022/09/03/jobify-project/)
-#### [Stack]
-![MongoDB](./mongodb.svg)
-![React](./react.svg)
-![NodeJS](./nodejs.svg)
-
-## Unity Mini Games 
-[More Info](https://hookup.express/index.php/simple-unity-games/).
-#### [Stack]
-![Unity](./unity.svg)
-![C#](./csharp.svg)
-
 ## Pinch Zoom Gestures in Swift
 [Read more about this project.](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
 #### [Stack]
 ![Swift](./swift.svg)
+![XCode](./xcode.svg)
+
+## Unity Mini Games 
+[Read more about the unity mini games.](https://hookup.express/index.php/simple-unity-games/).
+#### [Stack]
+![Unity](./unity.svg)
+![C#](./csharp.svg)
 
 ## SaucePanTv.net
 [Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
