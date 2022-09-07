@@ -1,5 +1,5 @@
 ### Aldanis Vigo - Software Developer
-# Skills
+# Skills & Projects
 
 ![HTML 5](./html5.svg)
 
