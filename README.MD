@@ -13,7 +13,7 @@
 
 ![Flutter](./flutter.svg)
 
-![NodeJS]](./nodejs.svg)
+![NodeJS](./nodejs.svg)
 
 ![C](./c.svg)
 
