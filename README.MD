@@ -1,14 +1,6 @@
 # Aldanis Vigo - Software Developer
 
-## SaucePanTv.net
-[Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
-#### [Stack]
-![VueJS](./vue.svg)
-![Firebase](./firebase.svg)
-![NodeJS](./nodejs.svg)
-![HTML 5](./html5.svg)
-![CSS 3](./css3.svg)
-![Javascript](./js.svg)
+
 
 ## Vigo Doc App
 [Read more about the Vigo Doc App](https://github.com/AldanisVigo/VigoDoc.git)
@@ -52,10 +44,19 @@
 ![Unity](./unity.svg)
 ![C#](./csharp.svg)
 
-# Pinch Zoom Gestures in Swift
-Nice project focused on pinch and zoom gestures using Swift
-[More Info](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
+## Pinch Zoom Gestures in Swift
+[Read more about this project.](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
 ## Technologies Used
 ![Swift](./swift.svg)
+
+## SaucePanTv.net
+[Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
+#### [Stack]
+![VueJS](./vue.svg)
+![Firebase](./firebase.svg)
+![NodeJS](./nodejs.svg)
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
 
 
