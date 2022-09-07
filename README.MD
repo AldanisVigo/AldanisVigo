@@ -1,17 +1,32 @@
 ### Aldanis Vigo - Software Developer
 # Skills
 
-![Alt text](./html5.svg)
-<!-- <img src="./html5.svg"> -->
+![HTML 5](./html5.svg)
 
-![Alt text](./css3.svg)
-<!-- <img src="css3.svg"> -->
+![CSS 3](./css3.svg)
 
-![Alt text](./js.svg)
-<!-- <img src="./js.svg"> -->
+![Javascript](./js.svg)
 
-![Alt text](./nodejs.svg)
-<!-- <img src="./nodejs.svg"> -->
+![React](./react.svg)
 
-![Alt text](./java.svg)
-<!-- <img src="./java.svg"> -->
+![VueJS](./vue.svg)
+
+![Flutter](./flutter.svg)
+
+![NodeJS]](./nodejs.svg)
+
+![C](./c.svg)
+
+![C++](./cpp.svg)
+
+![C#](./csharp.svg)
+
+Simple mini games made using C# and Unity Game Engine [Unity C# Games](https://hookup.express/index.php/simple-unity-games/).
+
+
+
+![Dart](./dart.svg)
+
+![Java](./java.svg)
+
+![Spring](./spring.svg)
