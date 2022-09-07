@@ -3,7 +3,9 @@
 ### Aldanis Vigo - Software Developer
 # Skills
 
-![Alt text](./html5.svg)
+```diff
+- ![Alt text](./html5.svg)
+```
 <!-- <img src="./html5.svg"> -->
 
 ![Alt text](./css3.svg)
