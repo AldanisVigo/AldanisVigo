@@ -11,7 +11,7 @@
 ![Javascript](./js.svg)
 
 ## Vigo Doc App
-[More Info](https://github.com/AldanisVigo/VigoDoc.git)
+[Read more about the Vigo Doc App](https://github.com/AldanisVigo/VigoDoc.git)
 #### [Stack]
 ![MongoDB](./mongodb.svg)
 ![ExpressJS](./express.svg)
