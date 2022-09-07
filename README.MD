@@ -19,8 +19,8 @@
 ![NodeJS](./nodejs.svg)
 
 ## Multiplayer Rock, Paper, Scissors
-[More Info](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
-### Technologies Used
+[Read more about MRPS](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
+#### [Stack]
 ![NodeJS](./nodejs.svg)
 ![ExpressJS](./express.svg)
 ![SocketIO](./socketio.svg)
