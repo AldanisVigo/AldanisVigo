@@ -31,14 +31,14 @@ https://hookup.express/index.php/2022/09/03/jobify-project/
 
 
 
-### Unity Mini Games 
+# Unity Mini Games 
 [More Info](https://hookup.express/index.php/simple-unity-games/).
-# Technologies Used
+## Technologies Used
 ![C#](./csharp.svg)
 
-### Pinch Zoom Gestures in Swift
+# Pinch Zoom Gestures in Swift
 [More Info](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
-# Technologies Used
+## Technologies Used
 ![Swift](./swift.svg)
 
 
