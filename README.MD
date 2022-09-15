@@ -1,6 +1,6 @@
 # Aldanis Vigo - Software Developer
 
-[Check out my blog](https://hookup.express)
+[Check out my blog](https://aldanisvigo.com)
 
 ## Vigo Doc App
 [Read more about the Vigo Doc App](https://github.com/AldanisVigo/VigoDoc.git)
