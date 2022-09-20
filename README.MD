@@ -1,6 +1,12 @@
 # Aldanis Vigo - Software Developer
 
 [Check out my blog](https://aldanisvigo.com)
+## Vigo Wheel
+[Read more about the Vigo Wheel App](https://github.com/AldanisVigo/VigosWheel)
+#### [Stack]
+![HTML 5](./html5.svg)
+![CSS 3](./css3.svg)
+![Javascript](./js.svg)
 
 ## Vigo Doc App
 [Read more about the Vigo Doc App](https://github.com/AldanisVigo/VigoDoc.git)
