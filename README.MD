@@ -1,4 +1,4 @@
-# Aldanis Vigo - Software Developer
+# Aldanis Vigo - Full Stack Engineer
 
 [Check out my blog](https://aldanisvigo.com)
 ## Vigo Wheel
