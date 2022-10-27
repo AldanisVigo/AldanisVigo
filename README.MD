@@ -31,7 +31,7 @@
 ![MongoDB](./mongodb.svg)
 
 ## Generative NFT Art Collection using Metaplex's Candy Machine
-[Read more about this NFT project.](https://hookup.express/index.php/2022/07/22/generative-art-nft-collection-on-the-solana-blockchain-using-metaplexs-candy-machine-v2/)
+[Read more about this NFT project.](https://aldanisvigo.com/index.php/2022/07/22/generative-art-nft-collection-on-the-solana-blockchain-using-metaplexs-candy-machine-v2/)
 #### [Stack]
 ![React](./react.svg)
 ![HTML 5](./html5.svg)
@@ -41,7 +41,7 @@
 
 
 ## Multiplayer Rock, Paper, Scissors
-[Read more about MRPS.](https://hookup.express/index.php/2022/09/04/socket-io-rock-paper-scissors/)
+[Read more about MRPS.](https://aldanisvigo.com/index.php/2022/09/04/socket-io-rock-paper-scissors/)
 #### [Stack]
 ![React](./react.svg)
 ![HTML 5](./html5.svg)
@@ -53,7 +53,7 @@
 
 
 ## Vigo Chat App
-[More Info](https://hookup.express/index.php/vigochat/)
+[More Info](https://aldanisvigo.com/index.php/vigochat/)
 #### [Stack]
 ![HTML 5](./html5.svg)
 ![CSS 3](./css3.svg)
@@ -64,19 +64,19 @@
 ![MySQL](./mysql.svg)
 
 ## Pinch Zoom Gestures in Swift
-[Read more about this project.](https://hookup.express/index.php/swiftui-pinch-zoom-gestures/)
+[Read more about this project.](https://aldanisvigo.com/index.php/swiftui-pinch-zoom-gestures/)
 #### [Stack]
 ![Swift](./swift.svg)
 ![XCode](./xcode.svg)
 
 ## Unity Mini Games 
-[Read more about the unity mini games.](https://hookup.express/index.php/simple-unity-games/).
+[Read more about the unity mini games.](https://aldanisvigo.com/index.php/simple-unity-games/).
 #### [Stack]
 ![Unity](./unity.svg)
 ![C#](./csharp.svg)
 
 ## SaucePanTv.net
-[Read more about SaucePanTv.net](https://hookup.express/index.php/saucepantv-net/).
+[Read more about SaucePanTv.net](https://aldanisvigo.com/index.php/saucepantv-net/).
 #### [Stack]
 ![VueJS](./vue.svg)
 ![HTML 5](./html5.svg)
