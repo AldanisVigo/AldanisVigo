@@ -1,6 +1,6 @@
 # Aldanis Vigo - Full Stack Engineer
 
-[Check out my blog](https://aldanisvigo.com)
+[Check out my blog](https://aldanisvigo.github.io/)
 ## Vigo Wheel
 [Read more about the Vigo Wheel App](https://github.com/AldanisVigo/VigosWheel)
 #### [Stack]
